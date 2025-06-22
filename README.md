@@ -24,5 +24,4 @@ Java, File I/O, Exception Handling
 📄 [Download Report PDF](https://github.com/Narayanarao-v/FILE-HANDLING-UTILITY/raw/main/CodTech_Task1_FileHandling_Report.pdf)
 ##Output:
 
-![Image](https://github.com/user-attachments/assets/f5d92f7b-535d-40ee-916e-839fae46e7e3)
 
