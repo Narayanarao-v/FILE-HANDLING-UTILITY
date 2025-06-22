@@ -20,5 +20,6 @@ A Java console-based application that demonstrates file operations:
 **Technologies Used:**  
 Java, File I/O, Exception Handling
 
-📂 Source Code: `FileHandlingUtility.java`  
-📄 Report: `CodTech_Task1_FileHandling_Report.pdf`
+📂 [Source Code](https://github.com/Narayanarao-v/FILE-HANDLING-UTILITY/raw/main/FileHandlingUtility.java)  
+📄 [Download Report PDF](https://github.com/Narayanarao-v/FILE-HANDLING-UTILITY/raw/main/CodTech_Task1_FileHandling_Report.pdf)
+
