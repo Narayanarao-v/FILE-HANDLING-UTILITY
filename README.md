@@ -9,7 +9,7 @@
 
 ## 📁 Internship Task Overview
 This repository contains all the internship tasks completed as part of the **CodTech Java Programming Internship**.
-### ✅ Task 1: File Handling Utility
+## Task 1: File Handling Utility
 
 **Description:**  
 A Java console-based application that demonstrates file operations:
