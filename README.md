@@ -7,7 +7,7 @@
 **Duration:** 8 Weeks  
 **Mentor:** Neela Santosh Kumar
 
-## 📁 Internship Task Overview
+##  Internship Task Overview
 This repository contains all the internship tasks completed as part of the **CodTech Java Programming Internship**.
 ## Task 1: File Handling Utility
 
@@ -22,4 +22,7 @@ Java, File I/O, Exception Handling
 
 📂 [Source Code](https://github.com/Narayanarao-v/FILE-HANDLING-UTILITY/raw/main/FileHandlingUtility.java)  
 📄 [Download Report PDF](https://github.com/Narayanarao-v/FILE-HANDLING-UTILITY/raw/main/CodTech_Task1_FileHandling_Report.pdf)
+##Output:
+
+![Image](https://github.com/user-attachments/assets/f5d92f7b-535d-40ee-916e-839fae46e7e3)
 
